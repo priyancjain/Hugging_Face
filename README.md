@@ -15,7 +15,8 @@ Transformer
 
 PIPELINE FUNCTION
 
-The pipeline() is the easiest and fastest way to use a pretrained model for inference. You can use the pipeline() out-of-the-box for many tasks across different modalities, some of which are 
+The pipeline() is the easiest and fastest way to use a pretrained model for inference. You can use the pipeline() out-of-the-box for many tasks across different modalities, some of which are fill mask,question answering, text generation,summarization,sentiment analysis etc.
+
 
 
 
