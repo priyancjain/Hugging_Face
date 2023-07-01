@@ -6,7 +6,7 @@
 Reference:--https://huggingface.co/
 
 Transformer
-🤗 Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models. Using pre-trained models can reduce your computing costs, and carbon footprint, and save you the time and resources required to train a model from scratch. These models support common tasks in different modalities, such as:
+🤗 Transformers provides APIs and tools to download and train state-of-the-art pretrained models easily. Using pre-trained models can reduce your computing costs, and carbon footprint, and save you the time and resources required to train a model from scratch. These models support common tasks in different modalities, such as:
 
 📝 Natural Language Processing: text classification, named entity recognition, question answering, language modeling, summarization, translation, multiple choice, and text generation.
 🖼️ Computer Vision: image classification, object detection, and segmentation.
